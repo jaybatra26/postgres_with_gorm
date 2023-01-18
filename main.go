@@ -4,8 +4,13 @@ package main
 
 import(
 	"fmt"
-	"log"
 )
+
+
+func main(){
+	fmt.Println("hey arrived")
+	fmt.Printf("hey there") 
+}
 
 
 
